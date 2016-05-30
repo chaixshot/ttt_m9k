@@ -5,5 +5,5 @@ https://github.com/chaixshot/ttt_m9k-master/blob/master/gamemodes/terrortown/ent
 
 
 
-คุณสามารถตั้งค่าระยะซูมได้ที่
+คุณสามารถตั้งค่าระยะซูมได้ที่  
 https://github.com/chaixshot/ttt_m9k-master/blob/master/gamemodes/terrortown/entities/weapons/weapon_tttbase.lua#L231
