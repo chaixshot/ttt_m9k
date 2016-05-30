@@ -1,5 +1,3 @@
-You can set zoom FOV in
-gamemodes/terrortown/entities/weapons/weapon_tttbase.lua
 function SWEP:SetZoom(state)
    if CLIENT then return end
    if not (IsValid(self.Owner) and self.Owner:IsPlayer()) then return end
